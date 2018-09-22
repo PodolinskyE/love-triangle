@@ -1,7 +1,13 @@
 # Love triangles
 
 ## History
-Spichonees (made-up name) live in country Spichland where are no gender. Spichonees are big lovers, so each Spichonee loves any another Spichonee. Unfortunately there are sometimes situations, when Spichonee A loves Spichonee B, Spichonee B loves Spichonee C and Spichonee C loves Spichonee A. This phenomenon is called *Love triangle*.
+Spichonees (made-up name) live in country Spichland where are no gender.
+Spichonees are big lovers, so each Spichonee loves any another Spichonee.
+Unfortunately there are sometimes situations,
+when Spichonee A loves Spichonee B,
+Spichonee B loves Spichonee C and
+Spichonee C loves Spichonee A.
+This phenomenon is called *Love triangle*.
 
 ## Task
 Your task is to implement function `getLoveTrianglesCount` which calculates how many *love triangles phenomenons* take place. The function takes the array of integers as the only parameter. An integer `k` on `n`th place means, that `n`th Spichonee loves `k`th Spichonee.
